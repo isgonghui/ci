@@ -1,13 +1,8 @@
-11111
-2222
-3333
-4444
-5555
-6666
-7777
-8888
-9999
-0000
-aaaa
-bbbb
-ccccc
+<?php
+$list=array(1,2,3,4);
+echo "<pre>";
+var_export($list);
+
+
+
+?>
